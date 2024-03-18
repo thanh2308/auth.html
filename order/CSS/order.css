@@ -1,25 +1,49 @@
-.row{
+.row {
     background-color: rgb(255, 255, 255);
 }
-#title2{
+
+#title2 {
     padding-bottom: 100px;
     width: 1280px;
     height: 61px;
     display: flex;
     justify-content: start;
     flex-direction: row;
-    padding-left:0px;
+    padding-left: 0px;
     font-size: 14px;
 }
-#title{
-    padding:20px 0;
+
+#title {
+    padding: 20px 0;
     height: 21px;
     width: 1280px;
     font-size: 14px;
 }
-#title3{
-    height:64.89px;
+
+#title3 {
+    height: 64.89px;
     width: 208px;
     padding: 20px 0px;
     font-size: 16px;
+}
+#title4{margin-bottom: 64px;width: 928px;height:38.4px;padding-left: 100px;}
+
+#title5 {
+    width: 1178.67px;
+    height: 1731px;
+    }
+#title6{
+        background-color:#f8f4f4;width: 625px;padding: 32px;
+    }
+#title7{
+        style="width: 550px;
+    }
+#title8{
+display: flex;justify-content: center;
+}
+#title9{
+font-size: 20px;margin-bottom: 32px;
+}
+#title10{
+    
 }
